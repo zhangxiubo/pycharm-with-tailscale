@@ -6,7 +6,7 @@ This is a [JetBrains PyCharm](https://www.jetbrains.com/pycharm/) template confi
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-jetbrains-pycharm)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/zhangxiubo/pycharm-with-tailscale)
 
 ## Get Started With Your Own Project
 
